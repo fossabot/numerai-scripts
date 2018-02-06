@@ -1,4 +1,6 @@
 # Numerai Machine Learning Challenge
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhaledSharif%2Fnumerai-scripts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhaledSharif%2Fnumerai-scripts?ref=badge_shield)
+
 
 <i>Markets become more efficient over time. In the 1970s the market seemed efficient. But to Ed Thorp, the market was inefficient because he had invented something new to price options. Many innovations since then have also increased market efficiency. Today, advances in artificial intelligence are poised to transform the global asset management industry.</i>
 
@@ -11,3 +13,7 @@ The training data is presented in 15 features, scaled up to 120 with simple feat
 
 <img src="http://i.imgur.com/TWjwvGb.png" />
 <i>The graph above shows the resulting AUC's after each epoch of training <a href="https://github.com/KhaledSharif/numerai-scripts/blob/master/lasagne-script.py">a deep neural network</a>, consisting of 8 highway layers, and built using the Lasange library for Python. The maximum AUC is ~54.5%, and is achieved after 12 iterations.</i>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhaledSharif%2Fnumerai-scripts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhaledSharif%2Fnumerai-scripts?ref=badge_large)
